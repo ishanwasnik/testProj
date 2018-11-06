@@ -1,3 +1,4 @@
 welcome to the gitbash
 "uga buga bugaaa"
 "cg_autobuy 1"
+"change must be saved in sao1"
